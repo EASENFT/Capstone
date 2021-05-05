@@ -5,7 +5,7 @@ This Capstone will look at the population in the United States and compare rates
 * [Motiation](#motivation)
 * [Technologies](#technologies)
 * [Data Questions](#data-questions)
-* [Presentation Link]('documents/NSS/projects/Capstone/Obesity-and-Income')
+* [Presentation Link](#presentation-link)
 * [Data Sources](#data-source)
 * [AdditionalSourses](#additional-sources)
 
@@ -29,7 +29,7 @@ Project is created with:
 * How will this analysis help us to understand health, income, and poverty changes post COVID19 pandemic?
 
 ## Presentation Link
-* [Click Here](#url_link_to_your_pdf)
+* [Click Here](#https://github.com/EASENFT/Capstone/blob/main/Obesity_Income_presentation.pdf)
 
 
 ## Data Sources
