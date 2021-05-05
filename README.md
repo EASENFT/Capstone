@@ -22,14 +22,14 @@ Project is created with:
 * Power Point
 
 ## Data Questions 
-* Is there any correlation with states that have higher rates of obesity and average/median income? 
+* Is there a correlation with states that have higher rates of obesity and average/median income? 
 * Is the average rate of obesity higher in states with high levels of poverty or lower median income?
 * What is the average cost of health insurance with an obese BMI?
 * What is the national cost of obesity related medical issues?
 * How will this analysis help us to understand health, income, and poverty changes post COVID19 pandemic?
 
 ## Presentation Link
-* [Click Here](#https://github.com/EASENFT/Capstone/blob/main/Obesity_Income_presentation.pdf)
+* [Click Here](https://github.com/EASENFT/Capstone/blob/main/Obesity_Income_presentation.pdf)
 
 
 ## Data Sources
